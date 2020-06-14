@@ -21,7 +21,7 @@ $_DVWA[ 'db_user' ]     = 'user';
 $_DVWA[ 'db_password' ] = 'password';
 
 # Only used with PostgreSQL/PGSQL database selection.
-$_DVWA[ 'db_port '] = '5432';
+$_DVWA[ 'db_port '] = '80';
 
 # ReCAPTCHA settings
 #   Used for the 'Insecure CAPTCHA' module
